@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://pre00.deviantart.net/465a/th/pre/i/2016/238/8/7/hyper_sonic_wallpaper_by_foxmaster55-dafcg60.png");  
+    background-size:100%;
+    height:100%;
+    width:100%;
+  }
+  
+  @font-face {
+      font-family: "crystalfont";
+      src: url("crystalfont.otf");
+  }
+  
+  .crystalImage {
+    width: 100px;
+    height: 100px;
+  }
+  
+  h1 {
+    color: white;
+    text-align: left;
+    font-family: "crystalfont";
+  }
+  
+ 
+  
+  h2 {
+    color: white;
+    text-align: left;
+    font-family: "crystalfont";
+    font-size: 30px;
+  }
+
+  h3 {
+    color: white;
+    text-align: left;
+    font-family: "crystalfont";
+    font-size: 30px;
+  }
+
+  p {
+    color: white;
+    text-align: left;
+    font-family: "crystalfont";
+    font-size: 30px;
+  }
+  
+  div {
+    color: white;
+    text-align: left;
+    font-family: "crystalfont";
+    font-size: 22px;
+  }
+  
+ 
